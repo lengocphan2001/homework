@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TextStyle75">
+        <item name="android:fontFamily">@font/regular_lato</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/black_eight</item>
+    </style>
+    <style name="TextStyle76">
+        <item name="android:fontFamily">@font/ralway</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">28sp</item>
+        <item name="android:textColor">@color/grey_brown_three</item>
+    </style>
+    <style name="TextStyle42">
+        <item name="android:fontFamily">@font/light</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/black_eight</item>
+    </style>
+    <style name="buttonShape" parent="android:style/Theme.NoTitleBar">
+        <item name="android:buttonStyle">@drawable/button_start</item>
+    </style>
+    <style name="TextStyle34">
+        <item name="android:fontFamily">@font/back_lato</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/white_three</item>
+    </style>
+
+</resources>
